@@ -1,8 +1,5 @@
-# Asteroid-Assignment-Base
-Initial skeleton for the assignment (semester-2 2016/17)
-
-This is the starting point for the Semester 2 assignment.
-The asteroids directory has a sample set of code to start with.
+# Asteroid-Assignment-Lily-Rose-Lenton
+Assignment for CM0506 Semester two
 
 ## asteroids
 asteroids.cpp:
